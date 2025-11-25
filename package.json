@@ -1,0 +1,23 @@
+{
+  "name": "into-to-backend",
+  "version": "1.0.0",
+  "description": "Initialaization of backend structure.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepakps2004/into-to-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepakps2004/into-to-backend/issues"
+  },
+  "homepage": "https://github.com/Deepakps2004/into-to-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
